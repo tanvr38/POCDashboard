@@ -52,10 +52,10 @@ dasboardPlot = {
     'Utilization (%)' : []
 }
 
-senderEmail = "demo.azurepoc22@gmail.com"
-senderMailPassword = "xgkuobeexsjpuyia"
-receiverEmail = ""
-emailMessage = "Hi there, this is to notify that lock has been created for Resource Group : "
+# senderEmail = "demo.azurepoc22@gmail.com"
+# senderMailPassword = "xgkuobeexsjpuyia"
+# receiverEmail = ""
+# emailMessage = "Hi there, this is to notify that lock has been created for Resource Group : "
 
 # Budget & Threshold Creation taking input from an external file
 inputFilePath = './input.csv'
